@@ -30,6 +30,6 @@ I’m Erik, a senior coder from Vietnam — developer, photographer, and designe
 
 ### 📊 Stats
 
-[![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erik9910x)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erik9910x&show_icons=true&theme=radical)
+
 
