@@ -2,7 +2,7 @@
 
 **`Digital Enthusiast (Developer/Photographer/Designer)`**
 
-I’m Erik, a senior coder from Vietnam — developer, photographer, and designer — passionate about building my own version of the digital world one step at a time. All my coding projects are crafted from the ground up, starting with planning and design, and moving toward solving real-world problems through clean, efficient code. As a photographer and designer, I bring the same approach to visual storytelling, from ideation and composition to final artistic touches. I’m also an English and Chinese learner who enjoys connecting with a global audience, sharing my work, and continuously improving my skills along the way.
+I’m Erik, a senior coder from Vietnam - developer, photographer, and designer — passionate about building my own version of the digital world one step at a time. All my coding projects are crafted from the ground up, starting with planning and design, and moving toward solving real-world problems through clean, efficient code. As a photographer and designer, I bring the same approach to visual storytelling, from ideation and composition to final artistic touches. I’m also an English and Chinese learner who enjoys connecting with a global audience, sharing my work, and continuously improving my skills along the way.
 
 ---
 
