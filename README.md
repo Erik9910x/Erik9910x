@@ -28,8 +28,5 @@ I’m Erik, a senior coder from Vietnam - developer, photographer, and designer 
 
 
 
-### 📊 Stats
-
-![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erik9910x&show_icons=true&theme=dark)
 
 
